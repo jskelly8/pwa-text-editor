@@ -34,11 +34,12 @@ When you first enter the site, you're able to see the text editor, usable online
 ## Usage
 
 To visit the deployed application, use the following link:
----URL---
-Please revisit the [Description](#description) section to review application specific features.
+https://text-editor-4xfd.onrender.com
+- Please revisit the [Description](#description) section to review application specific features.
 
 Screenshot of deployed application:
-![Screenshot of text editor](./)
+
+![Screenshot of text editor](./public/TextEditClip.png)
 
 ## License
 
@@ -60,6 +61,7 @@ Screenshot of deployed application:
 - Nodemon
 - CSS
 - HTML5
+- Deployed with Render
 
 ## Tests
 
